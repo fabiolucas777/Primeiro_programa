@@ -5,7 +5,7 @@
 
 <h4>no linux entre no diretorio do programa com o comando:</h4>
 
-<h3>$ cd / home / USUARIO_LOCAL / Calculador_do_trapezio</h3>
+<h3>$ cd / home / USUARIO_LOCAL / Downloads / Calculador_do_trapezio</h3>
 
 <h4>depois extraia com o comando:</h4>
 
