@@ -13,9 +13,10 @@ abra o terminal e coloque:</h4>
 no diretorio onde se encontra o arquivo</h6>
 
 <h7>$ unzip Primeiro_programa-master.zip</h7>
-<h8>depois extraia usando o comando acima</h8> 
-<h9></h9>
-<h10>para poder executar voce deve abrir o terminal no diretorio onde se encontra o programa 
-e usar o comando abaixo.</h10>
+<h8></h8>
+<h9>depois extraia usando o comando acima</h9> 
+<h10></h10>
+<h11>para poder executar voce deve abrir o terminal no diretorio onde se encontra o programa 
+e usar o comando abaixo.</h11>
 
-<h11>$ python3 CalDAdoTR.py</h11>
+<h12>$ python3 CalDAdoTR.py</h12>
