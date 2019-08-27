@@ -3,11 +3,11 @@
 <h2></h2>
 <h3>para poder usa-la:</h3>
 
-<h4>no linux, extraia na "/ home" da sua distro abra o terminal e coloque:</h4>
+<h4>no linux entre no diretorio do programa com o comando:</h4>
 
 <h3>$ cd / home / USUARIO_LOCAL / Calculador_do_trapezio</h3>
 
-<h4>para entrar no diretório de arquivo ou abrir o terminal diretamente no diretório onde se encontra o arquivo</h4>
+<h4>depois extraia com o comando:</h4>
 
 <h3>$ unzip Primeiro_programa-master.zip</h3>
 
