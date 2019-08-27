@@ -1,4 +1,3 @@
-#!/home/fabio/PycharmProjects/Myproject/venv/bin/python3
 #calculo da area do trapezio
 print(
     '\n\nBem vindo a calculadora'
