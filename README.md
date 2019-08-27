@@ -9,12 +9,13 @@ extraia na "/home" da sua distro
 abra o terminal e coloque:</h4>
 
 <h5>$ cd /home/USUARIO_LOCAL/Calculador_do_trapezio</h5>
-para poder entrar no diretorio do arquivo ou abra o terminal diretamente 
-no diretorio onde se encontra o arquivo
+<h6>para poder entrar no diretorio do arquivo ou abra o terminal diretamente 
+no diretorio onde se encontra o arquivo</h6>
 
-$ unzip Primeiro_programa-master.zip
+<h7>$ unzip Primeiro_programa-master.zip</h7>
 depois extraia usando o comando acima 
-
+<h8></h8>
 para poder executar voce deve abrir o terminal no diretorio onde se encontra o programa 
 e usar o comando abaixo.
-$ python3 CalDAdoTR.py
+
+<h9>$ python3 CalDAdoTR.py</h9>
