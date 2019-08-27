@@ -12,8 +12,8 @@ abra o terminal e coloque:</h4>
 <h6>para poder entrar no diretorio do arquivo ou abra o terminal diretamente 
 no diretorio onde se encontra o arquivo</h6>
 
-<h7>$ unzip Primeiro_programa-master.zip</h7>
-<h8></h8>
+<h1>$ unzip Primeiro_programa-master.zip</h1>
+<h2></h2>
 <h9>depois extraia usando o comando acima</h9> 
 <h10></h10>
 <h11>para poder executar voce deve abrir o terminal no diretorio onde se encontra o programa 
