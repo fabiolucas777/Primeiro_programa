@@ -1,22 +1,15 @@
 # Primeiro_programa
-
-<h1> calculadora da area do trapezio </h1>
+<h1>calculadora da área do trapézio</h1>
 <h2></h2>
-<h3> para poder usa-la, </h3>
+<h3>para poder usa-la:</h3>
 
-<h4>no linux
-extraia na "/home" da sua distro
-abra o terminal e coloque:</h4>
+<h4>no linux, extraia na "/ home" da sua distro abra o terminal e coloque:</h4>
 
-<h5>$ cd /home/USUARIO_LOCAL/Calculador_do_trapezio</h5>
-<h6>para poder entrar no diretorio do arquivo ou abra o terminal diretamente 
-no diretorio onde se encontra o arquivo</h6>
+<h3>$ cd / home / USUARIO_LOCAL / Calculador_do_trapezio</h3>
 
-<h1>$ unzip Primeiro_programa-master.zip</h1>
-<h2></h2>
-<h9>depois extraia usando o comando acima</h9> 
-<h10></h10>
-<h11>para poder executar voce deve abrir o terminal no diretorio onde se encontra o programa 
-e usar o comando abaixo.</h11>
+<h4>para entrar no diretório de arquivo ou abrir o terminal diretamente no diretório onde se encontra o arquivo</h4>
 
-<h12>$ python3 CalDAdoTR.py</h12>
+<h3>$ unzip Primeiro_programa-master.zip</h3>
+
+<h4>para poder executar, abra o terminal no diretório onde se encontra o programa e execute:</h4>
+<h3>$ python3 CalDAdoTR.py</h3>
